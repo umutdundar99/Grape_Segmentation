@@ -3,4 +3,4 @@ I have utilized the wgisd-grape dataset and trained the Mask-RCNN model for segm
 
 Here is the dataset link:https://paperswithcode.com/dataset/wgisd
 
-The code includes training the mask RCNN, detecting the grapes, and finding the center point of the grapes to help count the number of grapes in a photo.The project will continue.
+The code includes training the mask RCNN, detecting the grapes, and finding the center point of the grapes to help count the number of grapes in a photo.The project will be developed
